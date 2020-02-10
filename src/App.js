@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import './App.css';
 
+// made/ tests run with help from https://dev.to/christopherkade/introduction-to-front-end-unit-testing-510n
+
 class App extends Component {
   state = {
     counter: 0

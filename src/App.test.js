@@ -3,6 +3,9 @@ import App from "./App";
 import { shallow } from "enzyme";
 // import { render } from '@testing-library/react';
 
+// run with help from : https://dev.to/christopherkade/introduction-to-front-end-unit-testing-510n
+
+
 describe("UNIT Testing the App component", () => {
   let wrapper;
 
